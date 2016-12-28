@@ -1,1 +1,583 @@
+.preheader.row {
+  background: rgba(0,0,0,0.55);
+  color: white;
+}
+.costumer-care {
+  width: 33%;
+  position: relative;
+  float: left;
+  text-align: center;
+}.delevery-info {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+.trake-your-order {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+.login-user {
+  float: left;
+  width: 50%;
+  text-align: center;
+}.log-out {
+  width: 50%;
+  float: left;
+  text-align: center;
+}.preheader {
+  background: rgba(0, 0, 0, 0.55) none repeat scroll 0 0;
+  color: white;
+  padding: 3px 0;
+}
+.main-header {
+  height: 80px;
 
+}
+.comvita-logo {
+  text-align: center;
+}.Logout {
+  width: 30%;
+  float: left;
+  text-align: center;
+}.cart-section {
+  width: 70%;
+  float: left;
+  text-align: center;
+}.cart-section img {
+  width: 38%;
+}
+.main-header {
+  height: 80px;
+  width: 98.9%;
+}.custom-navbar {
+  background: white none repeat scroll 0 0;
+  margin: auto;
+  min-height: 56px;
+  width: 92%;
+}.custom-navbar ul li {
+ 
+  float: left;
+  min-width: 15%;
+  text-align: right;
+}.custom-nav {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  float: none;
+}
+
+
+.custom-nav a:hover {
+  color: darkred;
+  text-decoration: none;
+ 
+}.item .crousel-image {
+  height: 520px !important;
+  width: 100%;
+}.carousel-control.right {
+  background-image: none;
+  background-repeat: repeat-x;
+  left: auto;
+  right: 0;
+}.carousel-control.right {
+  background-image: none;
+  background-repeat: repeat-x;
+  left: auto;
+  right: 0;
+}
+.fa.fa-angle-left {
+  font-size: 154px;
+  background: rgba(255,255,255,0.60);
+  position: absolute;
+  left: 0;
+  top: 33%;
+  padding: 0 16px ;
+  box-shadow: 1px 1px white;
+}.fa.fa-angle-right {
+  font-size: 154px;
+  background: rgba(255,255,255,0.60);
+  position: absolute;
+  right: 0;
+  top: 33%;
+  padding: 0 16px ;
+  box-shadow: 1px 1px white;
+}
+.comvita-crousel {
+  width: 100%;
+  position: relative;
+}.carousel-indicators li {
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #fff;
+  cursor: pointer;
+  display: inline-block;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  width: 44px;
+}
+
+.comvita-search h2 {
+  color: white;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.47);
+}.custom-navbar {
+  background: white none repeat scroll 0 0;
+  border-radius: 6px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.65);
+  margin: auto;
+  min-height: 56px;
+  opacity: 0.8;
+  position: relative;
+  top: 45px;
+  width: 92%;
+}.article-header-image > img {
+  height: 200px;
+  width: 100%;
+}.comvita-article {
+  background: rgba(0, 0, 0, 0.04) none repeat scroll 0 0;
+  min-height: 393px;
+  padding: 10px;
+  width: 100%;
+}.comvita-aritcle-wrapter {
+  background: white none repeat scroll 0 0;
+  float: left;
+  margin: 10px;
+  position: relative;
+  width: 30%;
+  box-shadow: 1px 1px 1px rgba(0,0,0,.1);
+}
+.article-body {
+  height: 208px;
+  width: 100%;
+}
+.descriptin {
+  font-size: 20px;
+  padding: 22px 18px;
+}
+.article-footer {
+  padding: 17px 28px;
+  text-align: right;
+}
+.comvita-spacification {
+  width: 100%;
+  display: block;
+  float: none;
+  clear: both;
+}
+.spacific-wraper {
+  width: 90%;
+  margin: auto;
+}
+.comvita-spacification {
+  clear: both;
+  display: block;
+  float: none;
+  width: 100%;
+  min-height: 300px;
+  background: rgba(0,0,0,0.04);
+}
+.spacific-wraper {
+  margin: auto;
+  width: 97%;
+  background: white;
+}
+.spacific-inner-section {
+  width: 23.7%;
+  float: left;
+  background: rgba(0,0,0,.1);
+  text-align: center;
+  padding: 12px 0px;
+}
+.spacific-inner-section.one {
+  background: rgb(136,97,188);
+}
+.spacific-inner-section.two {
+  background: rgb(213, 213, 213) none repeat scroll 0 0;
+}
+.spacific-inner-section.four {
+  background: rgb(81,81,81);
+}
+.spacific-inner-section.three {
+  background: rgba(00,0,0,0.29);
+}
+.spacific-footer p {
+  color: white;
+  border: 1px solid white;
+  width: 74%;
+  margin: auto;
+  padding: 0;
+}
+.comvita-bord {
+  width: 100%;
+  background: rgba(0,0,0,.04);
+}.comvita-bord-wraper {
+  background: white none repeat scroll 0 0;
+  margin: 0 auto;
+  padding: 10px;
+  width: 95%;
+}
+.comvita-reserch {
+  background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+  padding: 11px;
+  width: 100%;
+}
+.directior-profile {
+  background: red none repeat scroll 0 0;
+  padding: 20px;
+  width: 233px;
+}
+.border-inner-wraper {
+  background: rgba(0, 0, 0, 0.21) none repeat scroll 0 0;
+  min-height: 300px;
+  width: 100%;
+}.directior-profile {
+  background: red none repeat scroll 0 0;
+  padding: 20px;
+  width: 233px;
+  float: left;
+}.border0wrapter {
+  background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;
+  padding: 23px;
+  width: 100%;
+}.border-inner-wraper {
+  background: white none repeat scroll 0 0;
+  min-height: 230px;
+  width: 100%;
+}.directior-descriptin {
+  float: right;
+  width: 69%;
+}.directior-descriptin {
+  float: right;
+  min-height: 230px;
+  width: 57%;
+}
+.directior-profile::after {
+  border-color: transparent transparent transparent red;
+  border-style: solid;
+  border-width: 106px 100px 123px 83px;
+  content: "";
+  left: 271px;
+  position: absolute;
+  top: 24px;
+  z-index: 2;
+}.arrow {
+  display: inline-block;
+  height: 100%;
+  position: relative;
+  width: 1px;
+}.arrow::after {
+  border-color: transparent transparent transparent gray;
+  border-style: solid;
+  border-width: 106px 83px 125px;
+  content: "";
+  position: absolute;
+  top: -15px;
+  z-index: 1;
+  left: 24px;
+}
+.footer-upper {
+  background: rgba(0, 0, 0, 0.38) none repeat scroll 0 0;
+  height: 33px;
+}
+.footer-site {
+  background: rgba(0, 0, 0, 0.52) none repeat scroll 0 0;
+  height: 50px;
+  width: 100%;
+}
+.footer-site-map {
+  width: 100%;
+  height: 200px;
+  background: rgba(0,0,0,0.69);
+}
+.updated-fotter {
+  display: inline-block;
+  min-height: 500px;
+  width: 100%;
+}.custom-tab {
+  width: 100%;
+  height: 60px;
+  background: tomato;
+}body {
+  overflow-x: hidden;
+}
+.border-inner-wraper {
+  background: white none repeat scroll 0 0;
+  border-color: rgba(0, 0, 0, 0.08) rgba(0, 0, 0, 0.36) rgba(0, 0, 0, 0.36) rgba(0, 0, 0, 0.09);
+  border-style: solid;
+  border-width: 3px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.31);
+  min-height: 230px;
+  width: 100%;
+}
+.directior-profile {
+  background: rgba(0, 0, 0, 0.15) none repeat scroll 0 0;
+  float: left;
+  padding: 17px;
+  width: 233px;
+}
+.directior-profile::after {
+  border-color: transparent transparent transparent red;
+  border-style: solid;
+  border-width: 106px 100px 118px 83px;
+  content: "";
+  left: 274px;
+  position: absolute;
+  top: 26px;
+  z-index: 2;
+}
+.arrow::after {
+  border-bottom: 125px solid transparent;
+  border-left: 83px solid gray;
+  
+  border-top: 106px solid transparent;
+  content: "";
+  left: 24px;
+  position: absolute;
+  top: -15px;
+  z-index: 1;
+}
+.border-inner-wraper {
+  background: white none repeat scroll 0 0;
+  border-color: rgba(0, 0, 0, 0.08) rgba(0, 0, 0, 0.27) rgba(0, 0, 0, 0.27) rgba(0, 0, 0, 0.09);
+  border-style: solid;
+  border-width: 3px;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.45);
+  min-height: 230px;
+  width: 100%;
+}
+.directior-profile::after {
+  border-color: transparent transparent transparent rgb(217, 217, 217);
+  border-style: solid;
+  border-width: 106px 100px 118px 83px;
+  content: "";
+  left: 274px;
+  position: absolute;
+  top: 26px;
+  z-index: 2;
+}
+.arrow::after {
+  border-bottom: 125px solid transparent;
+  border-left: 83px solid rgba(0,0,0,0.25);
+  border-top: 92px solid transparent;
+  content: "";
+  left: 24px;
+  position: absolute;
+  top: -11px;
+  z-index: 1;
+}
+.comvita-logo {
+  display: block;
+  position: relative;
+  top: -13px;
+}
+
+.Logout {
+  float: left;
+  text-align: center;
+  width: 30%;
+  line-height: 60px;
+  font-size: 19px;
+}.cart-section {
+  float: right;
+  width: 11%;
+}
+header {
+  position: fixed;
+  top: 0;
+  display: block;
+  left: 0;
+  z-index: 99999999999;
+  width: 100%;
+
+}
+.custom-navbar {
+  background: white none repeat scroll 0 0;
+  margin: auto;
+  min-height: 56px;
+  width: 92%;
+  opacity: .8;
+  border-radius: 6px;
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.65);
+}
+.comvita-logo > img {
+  width: 82%;
+}
+.comvita-logo > img {
+  padding: 4px;
+  position: relative;
+  top: 12px;
+  width: 67%;
+}
+.fa.fa-bars {
+  color: rgb(176,28,27);
+  font-size: 30px ;
+  padding: 11px 0;
+}.comvita-menu-bar {
+  float: right;
+}.comvita-social {
+  margin: auto;
+  padding: 4px;
+  position: fixed;
+  text-align: right;
+  width: 92%;
+}.social-wraper .fa {
+  color: white;
+  opacity: 0.65;
+  font-size: 33px;
+  margin: 0 7px ;
+  font-weight: normal;
+}
+.custom-nav a {
+  color: rgba(0, 0, 0, 0.69);
+  display: block;
+  font-size: 15px;
+  padding: 15px;
+  text-align: center;
+  font-family: Tahoma;
+}
+.custom-nav a::before {
+  content: ">";
+  display: none;
+  padding: 10px;
+}
+.comvita-tagLine {
+  position: absolute;
+  text-align: center;
+  top: 221px;
+  width: 100%;
+  background: rgba(0,0,0,0.11);
+}.tag-line {
+  color: snow;
+  font-family: FontAwesome;
+  font-size: 54px;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.29);
+}.pills {
+  color: white;
+  font-family: FontAwesome;
+  font-size: 28px;
+  font-weight: 100;
+  letter-spacing: 3px;
+  line-height: 0;
+  word-spacing: 0;
+}.comvita-story-play {
+  color: white;
+  margin: 42px auto;
+  padding: 16px;
+  width: 200px;
+}.fa.fa-play {
+  border: 1px solid white;
+  padding: 12px 12px 12px 16px ;
+  border-radius: 50%;
+  margin: 0 10px ;
+}.comvita-story-play {
+  font-size: 20px;
+}.submenu {
+  background: white none repeat scroll 0 0;
+  position: absolute;
+  top: 40px;
+}.submenu {
+  background: red none repeat scroll 0 0;
+  position: absolute;
+  top: 51px;
+}
+.comvita-search-text {
+  background: rgb(100, 100, 100) none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 4px;
+  padding-left: 10px;
+  width: 100%;
+}
+.fa.fa-search {
+  background: gray none repeat scroll 0 0;
+  line-height: 20px;
+  padding: 1px 9px;
+  position: absolute;
+  right: -28px;
+}
+.product-name {
+  display: block;
+  font-size: 15px;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 75%;
+  overflow: hidden;
+  margin: auto;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: cursive;
+  color: #666;
+}
+
+.txt-overflow{
+display: block;
+ position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width:100%;
+   overflow: hidden;
+}
+.product-short-note.txt-overflow {
+  width: 80%;
+  margin: auto;
+  font-family: fantasy;
+  color: #666;
+}.product-price {
+  text-align: center;
+  width: 100%;
+}.price {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}.img-wraper > img {
+  margin: auto;
+  width: 60%;
+  cursor: -moz-zoom-in;
+}.product-demo {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.1);
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+
+}
+.demo-background {
+  background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
+  height: 80%;
+  margin: 10% auto;
+  width: 80%;
+}
+.product-demo .img-wraper {
+  margin: 7px;
+  width: 212px;
+}.demo-background .about-product {
+  float: right;
+}.img-wraper {
+  float: left;
+}.demo-background .img-wraper > img {
+  cursor: zoom-in;
+  margin: auto;
+  width: 100%;
+}.demo-background .about-product {
+  float: right;
+  width: 76%;
+}.product-full-descriptin {
+  padding: 19px;
+  text-align: justify;
+  width: 95%;
+  background: rgba(0,0,0,0.05);
+  margin: 28px auto;
+}
+.product-demo.nerrow-view {
+  position: relative;
+  background: white;
+  transition:2s all;
+}.nerrow-view .quantity {
+  display: none;
+}.nerrow-view .about-product {
+  display: none;
+}
