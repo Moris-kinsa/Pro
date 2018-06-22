@@ -1,0 +1,94 @@
+{"product": {
+  "currencyCode": "USD",
+  "lowestSalePrice": 56.99,
+  "highestSalePrice": 56.99,
+  "longDescription": "<p><strong>Add 24 units to your cart to receive a 12.5% discount!<\/strong><\/p><p>Comvita's authentic UMF 15+ Manuka Honey is&#160;produced in New Zealand. It is guaranteed to be at least UMF 15+, backed by the UMF symbol shown on pack. &#160;<\/p><div>New Zealand UMF Grade Manuka Honey is gaining worldwide recognition and its reputation continues to grow. UMF stands for ‘Unique Manuka Factor’, a measure of the unique properties found in honey made from the nectar of the Manuka bush (Leptospermum scoparium), native to New Zealand.&#160;The UMF grading system appraises natural markers found in Manuka honey, and assures purity &amp; quality. Please see www.umf.org.nz.<\/div>",
+  "childSKUs": [{
+    "skuAttributeRelns": [],
+    "parentProducts": [{
+      "description": null,
+      "largeImageUrl": null,
+      "longDescription": "<p><strong>Add 24 units to your cart to receive a 12.5% discount!<\/strong><\/p><p>Comvita's authentic UMF 15+ Manuka Honey is&#160;produced in New Zealand. It is guaranteed to be at least UMF 15+, backed by the UMF symbol shown on pack. &#160;<\/p><div>New Zealand UMF Grade Manuka Honey is gaining worldwide recognition and its reputation continues to grow. UMF stands for ‘Unique Manuka Factor’, a measure of the unique properties found in honey made from the nectar of the Manuka bush (Leptospermum scoparium), native to New Zealand.&#160;The UMF grading system appraises natural markers found in Manuka honey, and assures purity &amp; quality. Please see www.umf.org.nz.<\/div>",
+      "mediumImageUrl": null,
+      "displayName": "UMF15+ Manuka Honey",
+      "repositoryId": "H2777",
+      "thumbnailImageUrl": null
+    }],
+    "onlineOnly": false,
+    "sizeDefault": "0.6 lb",
+    "type": "sku",
+    "skuTranslations": [],
+    "version": 16,
+    "derivedCatalogs": [
+      {
+        "id": "comvitauscatalog9000",
+        "status": "other",
+        "displayName": "Comvita US Catalog"
+      },
+      {
+        "id": "comvitanzcatalog9000",
+        "status": "other",
+        "displayName": "Comvita NZ Catalog"
+      }
+    ],
+    "id": "USA555",
+    "nonShippableStates": [],
+    "bundleLinks": [],
+    "listPrice": 56.99,
+    "mediumImage": "_assets/product_images/Manuka_Honey/USA555-UMF15+-Manuka-Honey-250g-small.png",
+    "rebates": [],
+    "smallImage": "_assets/product_images/Manuka_Honey/USA555-UMF15+-Manuka-Honey-250g-small.png",
+    "ecoFeeSKUs": [],
+    "storeSKU": false,
+    "sites": [{
+      "id": "SGS_COMVITA_US",
+      "name": "ComvitaUnitedStates"
+    }],
+    "onSale": false,
+    "displayNameDefault": "UMF15+ Manuka Honey",
+    "largeImage": "_assets/product_images/Manuka_Honey/USA555-UMF15+-Manuka-Honey-250g-large.png",
+    "auxiliaryMedia": {},
+    "computedCatalogs": [
+      {
+        "id": "comvitauscatalog9000",
+        "status": "other",
+        "displayName": "Comvita US Catalog"
+      },
+      {
+        "id": "comvitanzcatalog9000",
+        "status": "other",
+        "displayName": "Comvita NZ Catalog"
+      }
+    ],
+    "fixedReplacementProducts": [],
+    "freeShipMethods": [],
+    "skuInfos": {},
+    "catalogsReplacementProducts": [],
+    "size": "0.6 lb",
+    "eligibleShipMethods": [],
+    "discountable": true,
+    "creationDate": {"time": 1408553275402},
+    "dynamicAttributes": {},
+    "nonreturnable": false,
+    "siteIds": [
+      "SGS_COMVITA_US",
+      "SGS_COMVITA_NEWZEALAND"
+    ],
+    "lastModifiedDate": {"time": 1528287420352},
+    "catalogs": [
+      {
+        "id": "comvitauscatalog9000",
+        "status": "other",
+        "displayName": "Comvita US Catalog"
+      },
+      {
+        "id": "comvitanzcatalog9000",
+        "status": "other",
+        "displayName": "Comvita NZ Catalog"
+      }
+    ],
+    "displayName": "UMF15+ Manuka Honey"
+  }],
+  "displayName": "UMF15+ Manuka Honey",
+  "repositoryId": "H2777"
+}}
